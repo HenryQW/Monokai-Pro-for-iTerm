@@ -1,1 +1,1 @@
-Monokai Pro (Spectrum) for Iterm
+Monokai Pro for iTerm
